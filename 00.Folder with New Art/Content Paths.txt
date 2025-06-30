@@ -1,0 +1,21 @@
+For the tree
+
+tree_big_top and tree_big_trunk
+
+"C: \phase_3.5\maps\tree_big_top.jpg"
+
+"C: \phase_3.5\maps\tree_big_trunk.jpg""
+
+
+~*~
+
+For the outfit test
+
+shirt_Cat7_02
+"C: \phase_4\maps\shirt_Cat7_02.jpg"
+
+shirt_sleeveCat7_02
+"C: \phase_4\maps\shirt_sleeveCat7_02.jpg"
+
+tt_t_chr_avt_skirt_valentine1
+"C: \phase_4\maps\tt_t_chr_avt_skirt_valentine1.jpg"
