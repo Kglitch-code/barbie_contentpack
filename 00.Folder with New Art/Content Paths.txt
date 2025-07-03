@@ -1,21 +1,22 @@
-For the tree
+*** UPDATED
+\phase_3.5\maps\tree_big_top.jpg
+\phase_3.5\maps\tree_big_trunk.jpg
 
-tree_big_top and tree_big_trunk
+*** [DRAFT 1] Daisy's Gardens
+\phase_4\maps\trees_bg.jpg
+\phase_4\maps\garden_bricks2.jpg
+\phase_4\maps\DGhedge.jpg
+\phase_8\maps\daisys_garden_safezone_palette_3cmla_1.jpg
+\phase_8\maps\daisys_garden_safezone_palette_4amla_1.jpg
+\phase_8\maps\daisys_garden_streets_palette_4amla_1.jpg
+\phase_8\maps\daisys_garden_common_palette_3cmla_1.jpg
+phase_8\maps\DG_arch_flowers.jpg
 
-"C: \phase_3.5\maps\tree_big_top.jpg"
+[DRAFT 0.2] Tree
+\phase_3.5\maps\tree_big_top.jpg
+\phase_3.5\maps\tree_big_trunk.jpg
 
-"C: \phase_3.5\maps\tree_big_trunk.jpg""
-
-
-~*~
-
-For the outfit test
-
-shirt_Cat7_02
-"C: \phase_4\maps\shirt_Cat7_02.jpg"
-
-shirt_sleeveCat7_02
-"C: \phase_4\maps\shirt_sleeveCat7_02.jpg"
-
-tt_t_chr_avt_skirt_valentine1
-"C: \phase_4\maps\tt_t_chr_avt_skirt_valentine1.jpg"
+[DRAFT 0.1] CLOTHES
+\phase_4\maps\shirt_Cat7_02.jpg
+\phase_4\maps\shirt_sleeveCat7_02.jpg
+\phase_4\maps\tt_t_chr_avt_skirt_valentine1.jpg
